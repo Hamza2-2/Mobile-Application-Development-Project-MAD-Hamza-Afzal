@@ -107,6 +107,8 @@ flutter run
 
 ## 👨‍💻 Author
 Developed by Hamza Afzal
+
 📍 BSCS Student, Bahria University
+
 🔗 GitHub: Hamza2-2
 
